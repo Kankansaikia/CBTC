@@ -114,6 +114,38 @@ To enhance the functionality and usability of the banking system, the following 
 
 
 
+
+
+# Guess the Number Game
+
+## Project Description
+
+This project is a simple command-line based "Guess the Number" game written in Python. The program generates a random number between 1 and 100, and the player attempts to guess the number. With each guess, the program provides feedback to help the player converge on the correct number. The game continues until the player guesses the correct number, at which point the total number of attempts is displayed.
+
+## How to Play
+
+1. **Run the Game**:
+   - Execute the Python script to start the game. You can run the script by typing `python guess_the_number.py` in your terminal.
+
+2. **Make a Guess**:
+   - When prompted, input a number between 1 and 100.
+
+3. **Get Feedback**:
+   - After each guess, the program will provide feedback:
+     - It will tell you whether the target number is higher or lower than your guess.
+
+4. **Repeat**:
+   - Continue guessing based on the feedback provided by the program until you guess the correct number.
+
+5. **Win the Game**:
+   - The game ends when you guess the correct number.
+   - The program will display the total number of attempts you made to find the correct number.
+
+
+
+
+
+
    
 
 
